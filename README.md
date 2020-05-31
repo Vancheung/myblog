@@ -1,71 +1,39 @@
 ## Development/Test/Product
 
+### 1.端到端验收（黑盒测试）
 
-### Markdown
+A. 基于使用场景
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+B. 基于业务流程
 
-```markdown
-Syntax highlighted code block
+C. 基于销售场景
 
-# Header 1
-## Header 2
-### Header 3
+### 2.白盒测试开发
 
-- Bulleted
-- List
+A. API测试
 
-1. Numbered
-2. List
+B. 性能测试
 
-**Bold** and _Italic_ and `Code` text
+C. TDD
 
-[Link](url) and ![Image](src)
-```
+### 3.可用性测试
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A. 体验测试
 
-### Jekyll Themes
+B. KEP：功能路径测试
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vancheung/myblog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+C. KEI：目的驱动
 
-### Support or Contact
+### 4.竞品分析
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-黑盒测试：
-端到端
+A. 会议终端
 
-基于使用场景
+B. 会议软终端
 
-基于业务流程
+C. 云会议平台
 
-基于销售场景
+### 5.功能特性测试
 
-白盒
-性能测试
+A. 终端协作特性（白板、投屏）
 
-API测试
-
-TDD
-
-可用性测试
-体验测试
-
-KEP：功能路径测试
-
-KEI：目的驱动
-
-竞品测试
-会议终端
-
-会议软终端
-
-云会议平台
-
-功能特性测试
-终端协作特性（白板、投屏）
-
-会议系统可靠性
-
-
-
+B. 会议系统可靠性
