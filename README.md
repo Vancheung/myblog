@@ -32,3 +32,40 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+黑盒测试：
+端到端
+
+基于使用场景
+
+基于业务流程
+
+基于销售场景
+
+白盒
+性能测试
+
+API测试
+
+TDD
+
+可用性测试
+体验测试
+
+KEP：功能路径测试
+
+KEI：目的驱动
+
+竞品测试
+会议终端
+
+会议软终端
+
+云会议平台
+
+功能特性测试
+终端协作特性（白板、投屏）
+
+会议系统可靠性
+
+
+
